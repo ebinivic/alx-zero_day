@@ -1,0 +1,19 @@
+school >> school                                           
+root@49d351341aec:~/alx-zero_day/0x03-git/c/bash#                         
+root@49d351341aec:~/alx-zero_day# cat school                              
+cat: school: No such file or directory                                    
+root@49d351341aec:~/alx-zero_day# cd bash                                 
+bash: cd: bash: No such file or directory                                 
+root@49d351341aec:~/alx-zero_day# cd bash                                 
+bash: cd: bash: No such file or directory                                 
+root@49d351341aec:~/alx-zero_day# cd 0x03-git                             
+root@49d351341aec:~/alx-zero_day/0x03-git# cd bash                        
+root@49d351341aec:~/alx-zero_day/0x03-git/bash# cat school                
+#!/bin/bash                                                               
+ echo "School"                                                            
+#!/bin/bash                                                               
+ echo "school"                                                            
+root@49d351341aec:~/alx-zero_day/0x03-git/bash# cd ..                     
+root@49d351341aec:~/alx-zero_day/0x03-git# cd ..                          
+root@49d351341aec:~/alx-zero_day# git add .                               
+root@49d351341aec:~/alx-zero_day# git commit -m starting to today, so coo

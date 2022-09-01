@@ -4,3 +4,6 @@ bash
 #!/bin/
 bash
  echo "school"
+#!/bin/ba
+sh
+ echo "school" 
